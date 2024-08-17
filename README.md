@@ -29,7 +29,7 @@ Create a wide image of a makeshift...
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
-[Image Emulator](https://github.com/sourceduty/ImageEmulator)
+[Image Emulator](https://github.com/sourceduty/Image_Emulator)
 
 ***
 🛈 This information is free and open-source; anyone can redistribute it and/or modify.
