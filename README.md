@@ -29,6 +29,10 @@ Create a wide image of a makeshift...
 ![Makeshift Desk Fan](https://github.com/user-attachments/assets/a0b1f36a-a1ed-4a57-84a4-e791fa1386ab)
 
 #
+
+![Makeshift Machine](https://github.com/user-attachments/assets/8c9c0cb1-53d7-48b2-aec9-ed920970c7d6)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
